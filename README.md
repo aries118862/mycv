@@ -1,7 +1,4 @@
-<<<<<<< ours
-# etherastudio
-=======
-# Ethera Studio
+
 ## Features Included
 
 - Home page with header, hero section, about section, services cards, and footer
